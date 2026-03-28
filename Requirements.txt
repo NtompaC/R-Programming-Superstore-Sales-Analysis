@@ -1,0 +1,8 @@
+# R Packages used in this Project 
+
+*tidyverse
+*lubridate
+*plotly
+*ggplot2
+*scales
+*knitr
